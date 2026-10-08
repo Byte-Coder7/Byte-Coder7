@@ -54,9 +54,8 @@ My personal developer portfolio showcasing my skills, projects and experience.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add your LinkedIn URL
-- 🌐 Portfolio: Add your portfolio URL
-- 📧 Email: Add your professional email
+- 💼 LinkedIn: www.linkedin.com/in/pooja-rawat-38bb8b288
+- 📧 Email: rawatpooja1001@gmail.com
 
 ---
 
