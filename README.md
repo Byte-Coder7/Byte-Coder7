@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Pooja 👋
 
-<!--
-**Byte-Coder7/Byte-Coder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend & Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate passionate about building modern, responsive and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional web experiences and continuously improving my skills in frontend and full-stack development.
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Tailwind CSS
+- Next.js
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+## ⭐ Featured Projects
+
+### 🤖 AI Mock Interview & Resume Evaluation Platform
+A full-stack platform for mock interviews and resume management.
+
+**Tech:** React, Node.js, Express.js, MongoDB, REST APIs, AI
+
+### 🎬 Your-Tube
+A modern video platform built using full-stack web technologies.
+
+**Tech:** Next.js, JavaScript, Node.js, MongoDB
+
+### 💼 Personal Portfolio
+My personal developer portfolio showcasing my skills, projects and experience.
+
+**Tech:** React, Vite, Tailwind CSS
+
+## 🎯 Currently
+
+- 💻 Building full-stack web applications
+- ⚛️ Improving my React & Next.js skills
+- 🧩 Practicing problem solving and DSA
+- 🚀 Looking for opportunities in Frontend / React / Full-Stack Development
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Add your LinkedIn URL
+- 🌐 Portfolio: Add your portfolio URL
+- 📧 Email: Add your professional email
+
+---
+
+⭐ Thanks for visiting my profile!
